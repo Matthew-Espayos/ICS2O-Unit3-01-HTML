@@ -5,5 +5,20 @@
 }
 .text {
   color:#ADBCA5;
-  font-size:100%;
+  font-size:125%;
+}
+.list {
+  color:#1768AC;
+  padding:30px;
+  text-align:left;
+  border:1px solid black;
+  font-size:120%;
+}
+.table {
+  width:100%;
+  border-collapse: collapse;
+  text-align:left;
+  border:1px solid black;
+  font-size:120%;
+  color:#B497D6;
 }
